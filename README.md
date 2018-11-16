@@ -1,6 +1,8 @@
 # Praktikum5
   # latihan1
-  ## cara menyusun algoritma untuk menginput bilangan sebanyak-banyaknya sampai kondisi apabila yang di inputkan adalah angka 0
+  ## cara menyusun algoritma untuk menginput bilangan sebanyak-banyaknya sampai kondisi apabila yang di inputkan adalah angka 0. dengan menggunakan do while
+
+  ## berikut kode nya
 
 #include <iostream>
 
@@ -26,7 +28,7 @@ int main()
 	
 }
 
-### ini adalah cara dimana mencari bilangan sebanyak-banyaknya dengan inputan terahir angka 0. maka angka yang dimasukan akan menemukan bilang terberbesar.
+  ## ini adalah cara dimana mencari bilangan sebanyak-banyaknya dengan inputan terahir angka 0. maka angka yang dimasukan akan menemukan bilang terberbesar.
 contoh
 masukan bilangan = 45
 masukan bilangan = 40
