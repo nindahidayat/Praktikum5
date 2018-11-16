@@ -37,3 +37,6 @@ masukan bilangan = 32
 masukan bilangan = 0
 hasil nya = 45
 #maka hasil mencari bilangan terbesar adalah 45
+
+
+##SOAL2
